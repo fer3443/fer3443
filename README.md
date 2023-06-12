@@ -18,9 +18,6 @@ Actualmente me encuentro buscando trabajo.<br>Estudie en RollingCode School (202
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fer3443&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=fer3443&icon=0&color=9)](https://visitcount.itsvg.in)
 
